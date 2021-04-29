@@ -3,6 +3,8 @@
 
 <h1 align="left">Hi 👋, I'm Vanessa </h1>
 
+
+
 <h3 align="left">A Front-end Developer , trying 2 figure out code & living in the Netherlands</h3>
 
 - 🔭 I’m currently working on **my creativity**
