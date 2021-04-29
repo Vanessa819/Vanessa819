@@ -1,9 +1,9 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Vanessa</h1>
+<h1 align="left">Hi 👋, I'm Vanessa</h1>
 
-<h3 align="center">A Front-end Developer , trying 2 figure out code & living in the Netherlands</h3>
+<h3 align="left">A Front-end Developer , trying 2 figure out code & living in the Netherlands</h3>
 
 - 🔭 I’m currently working on **my creativity**
 
