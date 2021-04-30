@@ -1,8 +1,11 @@
 
 
 
+
 <h1 align="left">Hi 👋, I'm Vanessa </h1>
 
+
+<img align="right"  src="https://user-images.githubusercontent.com/69302194/116683946-97242a00-a9b0-11eb-8593-bdc256c6b8a1.jpg" width="320" height="450" />
 
 
 <h3 align="left">A Front-end Developer , trying 2 figure out code & living in the Netherlands</h3>
