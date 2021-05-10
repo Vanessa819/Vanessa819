@@ -10,7 +10,7 @@
 
 <h3 align="left">A Front-end Developer , trying 2 figure out code & living in the Netherlands</h3>
 
-- 🔭 I’m currently working on **my creativity**
+- 🔭 I’m currently working on **my website**
 
 
 <h3 align="left">Languages and Tools:</h3>
