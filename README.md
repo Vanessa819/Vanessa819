@@ -10,7 +10,7 @@
 
 <h3 align="left">A Front-end Developer & living in the Netherlands</h3>
 
-- 🔭 I’m currently working on **my website**
+- 📫 How to reach me bellav2409@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
